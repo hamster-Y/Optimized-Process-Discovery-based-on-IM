@@ -1,5 +1,6 @@
 # Optimized-Process-Discovery-based-on-Inductive-Miner
 **Java Version:** jdk1.8.0_151
+
 **ProM Version:** 6.13
 
 **Main Project:**
